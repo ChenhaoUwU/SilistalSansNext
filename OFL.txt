@@ -1,4 +1,9 @@
-Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)
+Copyright (c) 2024-2025, ChenhaoUwU (2732578462@qq.com),
+with Reserved Font Name "Silistal Sans".
+
+Copyright (c) 2023-2025, GeorgomeFont (https://github.com/GeorgomeFont).
+
+Copyright (c) 2021, The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
